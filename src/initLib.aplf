@@ -1,0 +1,2 @@
+ r←initLib
+ r←#.DCL.Init TatinVars.GetFullPath2AssetsFolder
