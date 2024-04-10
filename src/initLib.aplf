@@ -1,2 +1,2 @@
  r←initLib
- r←#.DCL.Init TatinVars.GetFullPath2AssetsFolder
+ r←Crypt.Init TatinVars.GetFullPath2AssetsFolder
